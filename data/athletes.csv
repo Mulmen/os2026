@@ -1,0 +1,16 @@
+athlete_id,name,sport
+swe_bi_001,Elvira Öberg,Skidskytte
+swe_bi_002,Hanna Öberg,Skidskytte
+swe_bi_003,Sebastian Samuelsson,Skidskytte
+swe_bi_004,Martin Ponsiluoma,Skidskytte
+swe_xc_001,Frida Karlsson,Längdskidor
+swe_xc_002,Ebba Andersson,Längdskidor
+swe_xc_003,Jonna Sundling,Längdskidor
+swe_xc_004,Linn Svahn,Längdskidor
+swe_xc_005,William Poromaa,Längdskidor
+swe_xc_006,Edvin Anger,Längdskidor
+swe_al_001,Sara Hector,Alpint
+swe_al_002,Anna Swenn-Larsson,Alpint
+swe_fs_001,Sandra Näslund,Freestyle (skicross)
+swe_fs_002,Walter Wallberg,Freestyle (puckelpist)
+swe_cu_001,Niklas Edin,Curling
