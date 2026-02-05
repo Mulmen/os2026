@@ -1,0 +1,57 @@
+athlete_id,name,sport,event
+swe_bi_001_sprint_7_5_km,Elvira Öberg,Skidskytte – Sprint 7.5 km,Sprint 7.5 km
+swe_bi_001_pursuit_10_km,Elvira Öberg,Skidskytte – Pursuit 10 km,Pursuit 10 km
+swe_bi_001_individual_15_km,Elvira Öberg,Skidskytte – Individual 15 km,Individual 15 km
+swe_bi_001_mass_start_12_5_km,Elvira Öberg,Skidskytte – Mass start 12.5 km,Mass start 12.5 km
+swe_bi_001_relay_4x6_km,Elvira Öberg,Skidskytte – Relay 4x6 km,Relay 4x6 km
+swe_bi_001_mixed_relay_4x6_km,Elvira Öberg,Skidskytte – Mixed relay 4x6 km,Mixed relay 4x6 km
+swe_bi_002_sprint_7_5_km,Hanna Öberg,Skidskytte – Sprint 7.5 km,Sprint 7.5 km
+swe_bi_002_pursuit_10_km,Hanna Öberg,Skidskytte – Pursuit 10 km,Pursuit 10 km
+swe_bi_002_individual_15_km,Hanna Öberg,Skidskytte – Individual 15 km,Individual 15 km
+swe_bi_002_mass_start_12_5_km,Hanna Öberg,Skidskytte – Mass start 12.5 km,Mass start 12.5 km
+swe_bi_002_relay_4x6_km,Hanna Öberg,Skidskytte – Relay 4x6 km,Relay 4x6 km
+swe_bi_002_mixed_relay_4x6_km,Hanna Öberg,Skidskytte – Mixed relay 4x6 km,Mixed relay 4x6 km
+swe_bi_003_sprint_10_km,Sebastian Samuelsson,Skidskytte – Sprint 10 km,Sprint 10 km
+swe_bi_003_pursuit_12_5_km,Sebastian Samuelsson,Skidskytte – Pursuit 12.5 km,Pursuit 12.5 km
+swe_bi_003_individual_20_km,Sebastian Samuelsson,Skidskytte – Individual 20 km,Individual 20 km
+swe_bi_003_mass_start_15_km,Sebastian Samuelsson,Skidskytte – Mass start 15 km,Mass start 15 km
+swe_bi_003_relay_4x7_5_km,Sebastian Samuelsson,Skidskytte – Relay 4x7.5 km,Relay 4x7.5 km
+swe_bi_003_mixed_relay_4x6_km,Sebastian Samuelsson,Skidskytte – Mixed relay 4x6 km,Mixed relay 4x6 km
+swe_bi_004_sprint_10_km,Martin Ponsiluoma,Skidskytte – Sprint 10 km,Sprint 10 km
+swe_bi_004_pursuit_12_5_km,Martin Ponsiluoma,Skidskytte – Pursuit 12.5 km,Pursuit 12.5 km
+swe_bi_004_individual_20_km,Martin Ponsiluoma,Skidskytte – Individual 20 km,Individual 20 km
+swe_bi_004_mass_start_15_km,Martin Ponsiluoma,Skidskytte – Mass start 15 km,Mass start 15 km
+swe_bi_004_relay_4x7_5_km,Martin Ponsiluoma,Skidskytte – Relay 4x7.5 km,Relay 4x7.5 km
+swe_bi_004_mixed_relay_4x6_km,Martin Ponsiluoma,Skidskytte – Mixed relay 4x6 km,Mixed relay 4x6 km
+swe_xc_001_10_km_freestyle,Frida Karlsson,Längdskidor – 10 km (freestyle),10 km (freestyle)
+swe_xc_001_skiathlon_10_10_km,Frida Karlsson,Längdskidor – Skiathlon 10+10 km,Skiathlon 10+10 km
+swe_xc_001_relay_4x7_5_km,Frida Karlsson,Längdskidor – Relay 4x7.5 km,Relay 4x7.5 km
+swe_xc_001_50_km_classical,Frida Karlsson,Längdskidor – 50 km (classical),50 km (classical)
+swe_xc_002_10_km_freestyle,Ebba Andersson,Längdskidor – 10 km (freestyle),10 km (freestyle)
+swe_xc_002_skiathlon_10_10_km,Ebba Andersson,Längdskidor – Skiathlon 10+10 km,Skiathlon 10+10 km
+swe_xc_002_relay_4x7_5_km,Ebba Andersson,Längdskidor – Relay 4x7.5 km,Relay 4x7.5 km
+swe_xc_002_50_km_classical,Ebba Andersson,Längdskidor – 50 km (classical),50 km (classical)
+swe_xc_003_sprint,Jonna Sundling,Längdskidor – Sprint,Sprint
+swe_xc_003_team_sprint_freestyle,Jonna Sundling,Längdskidor – Team sprint (freestyle),Team sprint (freestyle)
+swe_xc_003_relay_4x7_5_km,Jonna Sundling,Längdskidor – Relay 4x7.5 km,Relay 4x7.5 km
+swe_xc_004_sprint,Linn Svahn,Längdskidor – Sprint,Sprint
+swe_xc_004_team_sprint_freestyle,Linn Svahn,Längdskidor – Team sprint (freestyle),Team sprint (freestyle)
+swe_xc_004_relay_4x7_5_km,Linn Svahn,Längdskidor – Relay 4x7.5 km,Relay 4x7.5 km
+swe_xc_005_10_km_freestyle,William Poromaa,Längdskidor – 10 km (freestyle),10 km (freestyle)
+swe_xc_005_skiathlon_10_10_km,William Poromaa,Längdskidor – Skiathlon 10+10 km,Skiathlon 10+10 km
+swe_xc_005_relay_4x7_5_km,William Poromaa,Längdskidor – Relay 4x7.5 km,Relay 4x7.5 km
+swe_xc_005_50_km_classical,William Poromaa,Längdskidor – 50 km (classical),50 km (classical)
+swe_xc_006_sprint,Edvin Anger,Längdskidor – Sprint,Sprint
+swe_xc_006_team_sprint_freestyle,Edvin Anger,Längdskidor – Team sprint (freestyle),Team sprint (freestyle)
+swe_xc_006_relay_4x7_5_km,Edvin Anger,Längdskidor – Relay 4x7.5 km,Relay 4x7.5 km
+swe_xc_006_10_km_freestyle,Edvin Anger,Längdskidor – 10 km (freestyle),10 km (freestyle)
+swe_al_001_giant_slalom,Sara Hector,Alpint – Giant slalom,Giant slalom
+swe_al_001_slalom,Sara Hector,Alpint – Slalom,Slalom
+swe_al_001_team_combined_technical_leg,Sara Hector,Alpint – Team combined (technical leg),Team combined (technical leg)
+swe_al_002_slalom,Anna Swenn-Larsson,Alpint – Slalom,Slalom
+swe_al_002_team_combined_technical_leg,Anna Swenn-Larsson,Alpint – Team combined (technical leg),Team combined (technical leg)
+swe_fs_001_ski_cross,Sandra Näslund,Freestyle – Ski cross,Ski cross
+swe_fs_002_moguls,Walter Wallberg,Freestyle – Moguls,Moguls
+swe_fs_002_dual_moguls,Walter Wallberg,Freestyle – Dual moguls,Dual moguls
+swe_cu_001_men_s_team,Niklas Edin,Curling – Men's team,Men's team
+swe_cu_001_mixed_doubles,Niklas Edin,Curling – Mixed doubles,Mixed doubles
